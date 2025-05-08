@@ -1,13 +1,1 @@
-Step 1: Set Up Your Google Colab Environment
-Open Google Colab:
-Go to Google Colab and create a new notebook.
-
-Install the Necessary Libraries:
-In the first cell of your notebook, install the required libraries by running the following:
-
-python
-Copy
-Edit
-!pip install transformers peft datasets accelerate huggingface_hub
-This will install the transformers, peft (Low-Rank Adapters for efficient fine-tuning), datasets (to handle datasets), and huggingface_hub (for Hugging Face interaction) libraries.
 
